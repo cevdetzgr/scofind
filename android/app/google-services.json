@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "453189255641",
+    "firebase_url": "https://scofind-59997-default-rtdb.firebaseio.com",
+    "project_id": "scofind-59997",
+    "storage_bucket": "scofind-59997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453189255641:android:6b97163b9d10e28d8fd9c8",
+        "android_client_info": {
+          "package_name": "com.scooterfinder.scofind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453189255641-prce46liec2uuc2nd4l2ju3sve27l6v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scooterfinder.scofind",
+            "certificate_hash": "4509bde8ab2b1d25abd1e18ef5da450975e68fda"
+          }
+        },
+        {
+          "client_id": "453189255641-lbr51fndghm19jpf0cp5c8jii6hijid4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjci1VED5D1Zib99uvKLoGF9OUQfGzulQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453189255641-lbr51fndghm19jpf0cp5c8jii6hijid4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453189255641-n8jl7spm9cifmh15d9191fd90udl9ep3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scooterfinder.scofind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

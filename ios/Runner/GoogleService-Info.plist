@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>453189255641-n8jl7spm9cifmh15d9191fd90udl9ep3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.453189255641-n8jl7spm9cifmh15d9191fd90udl9ep3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwNUjCdts5fTj4roXMmoVKDrFPCx2G9Hw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>453189255641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.scooterfinder.scofind</string>
+	<key>PROJECT_ID</key>
+	<string>scofind-59997</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scofind-59997.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:453189255641:ios:92da1f0983c27ccd8fd9c8</string>
+	<key>DATABASE_URL</key>
+	<string>https://scofind-59997-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
